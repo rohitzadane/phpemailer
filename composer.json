@@ -1,0 +1,17 @@
+{
+    "name": "rohitzadane/phpemailer",
+    "description": "Library to Act as a Wrapper to Send Emails",
+    "keywords": [
+          "php", "email", "codeigniter"
+      ],
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "rohitzadane\\phpemailer\\": "src"
+      }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
